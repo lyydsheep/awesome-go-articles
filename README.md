@@ -8,9 +8,13 @@ A curated list of awesome articles to learn Go.
 
 - [Awesome Go](#awesome-go)
   - [Contents](#contents)
+  - [New features](#New-features)
   - [Organizational structure](#Organizational-structure)
   - [Underlying principle](#Underlying-principle)
   - [Premium Columns](#Premium-Columns)
+
+## New features
+- [Go 1.24:New map by Swiss Table](https://zhuanlan.zhihu.com/p/29295935067):Swiss Table and Golang new version of the map.
 
 ## Organizational structure
 
