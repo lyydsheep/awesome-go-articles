@@ -24,6 +24,9 @@ A curated list of awesome articles to learn Go.
 
 ## Underlying principle
 
+### Books
+- [Go language design and implementation](https://draven.co/golang/)
+
 ### GMP
 - [GMP1: What is GMP?](https://juejin.cn/post/7324931501926875170): Introducing GMP Basics.
 - [GMP2: What does the Go program do when it starts??](https://juejin.cn/post/7327138554756857908): loading...
