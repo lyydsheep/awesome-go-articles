@@ -15,6 +15,7 @@ A curated list of awesome articles to learn Go.
 
 ## New features
 - [Go 1.24:New map by Swiss Table](https://zhuanlan.zhihu.com/p/29295935067):Swiss Table and Golang new version of the map.
+- [GO 1.25:True streaming marshal —— json/v2](https://mp.weixin.qq.com/s/pYlGeF1yBlIy07DDvsIzrw): A comparative experiment on streaming marshal between json/v1 and json/v2.
 
 ## Organizational structure
 
