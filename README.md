@@ -14,6 +14,7 @@ A curated list of awesome articles to learn Go.
 - [Go 1.24: New map by Swiss Table](https://zhuanlan.zhihu.com/p/29295935067): Swiss Table and Golang new version of the map.
 - [GO 1.25: True streaming marshal —— json/v2](https://mp.weixin.qq.com/s/pYlGeF1yBlIy07DDvsIzrw): A comparative experiment on streaming marshal between json/v1 and json/v2.
 - [GO 1.25: Flight Recorder](https://mp.weixin.qq.com/s/F3ZgRIXW_2V0TnbBUlwAfg): Introduces Flight Recorder in Go 1.25, which captures the last few seconds of execution to locate performance bottlenecks with low overhead, suitable for production debugging.
+- [GO 1.25: Green Tea GC](https://mp.weixin.qq.com/s/W75ulkZU06-zLdfj3F_a-w): Page-based marking improves cache locality; reduces GC time by 10–40% in some scenarios.
 
 ## Organizational structure
 
