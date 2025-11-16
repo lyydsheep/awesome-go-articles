@@ -9,6 +9,7 @@ A curated list of awesome articles to learn Go.
 - [Organizational structure](#organizational-structure)
 - [Underlying principle](#underlying-principle)
 - [Premium Columns](#premium-columns)
+- [Recommended Resources](#recommended-resources)
 
 ## New features
 - [Go 1.24: New map by Swiss Table](https://zhuanlan.zhihu.com/p/29295935067): Swiss Table and Golang new version of the map.
@@ -32,3 +33,23 @@ A curated list of awesome articles to learn Go.
 
 ## Premium Columns
 - [Go Language Project Development](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/Go%20%E8%AF%AD%E8%A8%80%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98): Team norms are more important than individual skills.
+
+## Recommended Resources
+
+10 best Go resources in my bookmarks. Read just one and you're in good shape:
+
+1. Go Concurrency Rocks: [https://concurrency.rocks](https://concurrency.rocks)
+2. Go Cookbook: [https://go-cookbook.com](https://go-cookbook.com)
+3. 100 Go Mistakes and How to Avoid Them: [https://100go.co](https://100go.co)
+4. Practical Go Lessons: [https://practical-go-lessons.com](https://practical-go-lessons.com)
+5. Common Performance Patterns: [https://goperf.dev/01-common-patterns/](https://goperf.dev/01-common-patterns/)
+6. Practical Networking Patterns: [https://goperf.dev/02-networking/](https://goperf.dev/02-networking/)
+7. Learn Go with Tests: [https://quii.gitbook.io/learn-go-with-tests](https://quii.gitbook.io/learn-go-with-tests)
+8. Guide to Go Profiling, Tracing and Observability: [https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
+9. Go Class: [https://youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6](https://youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
+10. Go Roadmap: [https://roadmap.sh/golang](https://roadmap.sh/golang)
+
+Bonus:
+
+11. Go at VictoriaMetrics series: [https://victoriametrics.com/blog/categories/go-@-victoriametrics/](https://victoriametrics.com/blog/categories/go-@-victoriametrics/)
+12. Go Practical Tips (by me): [https://github.com/func25/go-practical-tips/blob/main/tips.md](https://github.com/func25/go-practical-tips/blob/main/tips.md)
