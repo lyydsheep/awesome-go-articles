@@ -24,6 +24,9 @@ A curated list of awesome articles to learn Go.
 
 ## Underlying principle
 
+### System Design & Engineering
+- [HTTP Client Timeout, Retry, and Resilience Patterns in Go](https://mp.weixin.qq.com/s/2v9A6CRjmyMoOK8vFJF5Ag): In-depth guide on HTTP client timeout control, retry strategies, idempotency guarantees, and performance optimization. Covers context propagation, exponential backoff, connection pool configuration, and sync.Pool memory reuse patterns.
+
 ### Books
 - [Go language design and implementation](https://draven.co/golang/)
 
