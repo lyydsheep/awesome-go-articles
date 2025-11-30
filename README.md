@@ -28,6 +28,10 @@ A curated list of awesome articles to learn Go.
 - [GMP1: What is GMP?](https://juejin.cn/post/7324931501926875170): Introducing GMP Basics.
 - [GMP2: What does the Go program do when it starts??](https://juejin.cn/post/7327138554756857908): loading...
 
+### errgroup
+- [Go errgroup: You Haven't Used Goroutines Until You've Used This](https://blog.devtrovert.com/p/go-errgroup-you-havent-used-goroutines): Practical guide to errgroup for concurrent task synchronization, error handling, cancellation, and concurrency limits with examples of user data fetching.
+- [errgroup Explained: Understanding Its Internal Working Mechanism](https://blog.devtrovert.com/p/errgroup-explained-understanding): Deep dive into errgroup's structure, semaphore-based concurrency control, core methods (Go, Wait, SetLimit, TryGo), and potential improvements.
+
 ## System Design & Engineering
 
 - [HTTP Client Timeout, Retry, and Resilience Patterns in Go](https://mp.weixin.qq.com/s/2v9A6CRjmyMoOK8vFJF5Ag): In-depth guide on HTTP client timeout control, retry strategies, idempotency guarantees, and performance optimization. Covers context propagation, exponential backoff, connection pool configuration, and sync.Pool memory reuse patterns.
